@@ -25,7 +25,7 @@ Metadata:
 
 # Work and Findings
 
-Data Preview
+**Data Preview**
 
 ![image](https://user-images.githubusercontent.com/36682023/228732621-4bd6ea20-46d8-47b6-9af3-72194acd97cf.png)
 
@@ -47,3 +47,20 @@ Data Preview
     
     Loss:       0.5615878105163574
     Accuracy:   0.729912519454956
+
+**Optimization 1**
+
+![image](https://user-images.githubusercontent.com/36682023/229975458-5890acfa-8f2b-4f03-b79e-16afeede4247.png)
+
+![image](https://user-images.githubusercontent.com/36682023/229975571-69c75751-d48c-4f24-a7d0-cfcd0a0d1629.png)
+
+
+**Optimization 2**
+
+![image](https://user-images.githubusercontent.com/36682023/229975521-bb0c142d-5e36-44e7-adf3-497cd20121c2.png)
+
+![image](https://user-images.githubusercontent.com/36682023/229975540-b2167b36-e9a6-46eb-a62d-d69ffbf286dd.png)
+
+**Summary**
+
+The results of deep learning model were very similiar across attemps at around 73-74%.  I wasn't able to achieve higher than 75% accuracy despite attempting to use a range of neural network configurations.  I'd imagine modifying the feature set or configuration of the training model might be necessary to achieve higher accuracy. 
